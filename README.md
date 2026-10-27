@@ -41,6 +41,10 @@ Player input (throttle) → SpaceshipController.cs → Engine_RPM + Engine_Load 
 - 360° skybox image: José Francisco
 - Spaceship models: [Niko-3D-Models](https://niko-3d-models.itch.io/free-sc-fi-spaceships-pack)
 
+## License
+
+My code in this repository is MIT licensed (see [LICENSE](LICENSE)). Third-party assets keep their own licenses: the FMOD for Unity integration, TextMesh Pro, the spaceship models, the skybox image, and the shaders/UI credited above.
+
 ---
 
 More of my work: [deniztugluaudio.com](https://deniztugluaudio.com) · [LinkedIn](https://www.linkedin.com/in/deniz-tuglu/)
